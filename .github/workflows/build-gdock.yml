@@ -3,7 +3,7 @@
 #   Author: JK
 #=================================================
 
-name: Build G-DOCK
+name: 竞斗云编译xd
 
 on: 
   release:
