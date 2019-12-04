@@ -1,6 +1,6 @@
 
 
-name: 竞斗云编译xd
+name: 竞斗云编译修改主题删除多余软件
 
 on: 
   release:
