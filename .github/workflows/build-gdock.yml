@@ -1,6 +1,6 @@
 
 
-name: 竞斗云编译修改主题删除多余软件
+name: 竞斗云1206
 
 on: 
   release:
@@ -70,7 +70,7 @@ jobs:
         find dl -size -1024c -exec ls -l {} \;
         find dl -size -1024c -exec rm -f {} \;
 
-    - name: Build
+    - name: 1206
       run: |
         cd lede
         echo -e "$(nproc) thread build."
